@@ -1,18 +1,51 @@
 * {
     background-color: darkcyan;
     color: bisque;
+    font-size: 2rem;
+}
+
+
+#nav {
+    text-align: center;
+    background-color: black;
 }
 
 #navbar {
     text-decoration: none;
-    text-decoration-style: none;
+
 }
 
-#f1 {}
+.div {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 50% 50%;
+}
 
-#f1 {}
+#f1 {
 
-.div [ display: grid;
-grid-template-columns: 20% 20% 20% 20% 20%;
-grid-template-rows: 20% 20% 20% 20% 20%;
-]
+    display: grid;
+    font-size: larger;
+    font-size: 5rem;
+    grid-column: 1/2;
+    text-align: center;
+
+
+
+}
+
+imagen1 {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    align-items: center;
+    text-align: center;
+    grid-column: 2/4;
+}
+
+
+#f2 {
+    display: grid;
+    font-size: 5rem;
+    grid-column: 2/3;
+    text-align: center;
+    a
+}
