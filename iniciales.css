@@ -2,3 +2,17 @@
     background-color: darkcyan;
     color: bisque;
 }
+
+#navbar {
+    text-decoration: none;
+    text-decoration-style: none;
+}
+
+#f1 {}
+
+#f1 {}
+
+.div [ display: grid;
+grid-template-columns: 20% 20% 20% 20% 20%;
+grid-template-rows: 20% 20% 20% 20% 20%;
+]
